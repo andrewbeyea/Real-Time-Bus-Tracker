@@ -8,7 +8,7 @@ Tracks the active trains on the Red Line of Boston's Subway
 * Adds tooltip on markers to identify direction and name of trains 
 
 # How to Run --
-* Branch the project to your GitHub account
+* Clone the project to your GitHub account
 * Fetch to your local machine
 * Open index.html in your favorite browser
 
